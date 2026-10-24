@@ -1,0 +1,11 @@
+# Données générées (volumineuses)
+data_gen/*.csv
+*.csv
+!data/sample/*.csv
+
+# Sorties des jobs
+output/
+
+__pycache__/
+*.pyc
+.DS_Store

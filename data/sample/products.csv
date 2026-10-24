@@ -1,0 +1,57 @@
+product_id,product_name,category,price
+P0001,Smartphone,Electronics,319.34
+P0002,Laptop,Electronics,879.49
+P0003,Tablet,Electronics,430.88
+P0004,Headphones,Electronics,73.41
+P0005,Smartwatch,Electronics,197.67
+P0006,Camera,Electronics,513.5
+P0007,Speaker,Electronics,128.63
+P0008,Monitor,Electronics,366.14
+P0009,Keyboard,Electronics,61.58
+P0010,Mouse,Electronics,39.22
+P0011,USB Hub,Electronics,25.54
+P0012,Charger,Electronics,19.65
+P0013,T-Shirt,Clothing,28.24
+P0014,Jeans,Clothing,55.5
+P0015,Jacket,Clothing,83.95
+P0016,Sneakers,Clothing,74.4
+P0017,Dress,Clothing,57.36
+P0018,Hoodie,Clothing,42.6
+P0019,Cap,Clothing,16.66
+P0020,Scarf,Clothing,21.1
+P0021,Belt,Clothing,32.38
+P0022,Socks Pack,Clothing,13.66
+P0023,Novel,Books,14.3
+P0024,Textbook,Books,42.7
+P0025,Comic,Books,8.96
+P0026,Cookbook,Books,22.89
+P0027,Biography,Books,19.14
+P0028,Self-Help,Books,16.04
+P0029,Science Book,Books,28.64
+P0030,Art Book,Books,37.71
+P0031,Lamp,Home & Garden,39.43
+P0032,Rug,Home & Garden,64.99
+P0033,Cushion,Home & Garden,19.79
+P0034,Vase,Home & Garden,31.87
+P0035,Candle Set,Home & Garden,14.33
+P0036,Plant Pot,Home & Garden,10.9
+P0037,Wall Art,Home & Garden,43.03
+P0038,Blanket,Home & Garden,34.03
+P0039,Shelf,Home & Garden,60.24
+P0040,Football,Sports,30.2
+P0041,Basketball,Sports,38.26
+P0042,Yoga Mat,Sports,25.6
+P0043,Dumbbells,Sports,50.36
+P0044,Jump Rope,Sports,12.52
+P0045,Boxing Gloves,Sports,43.51
+P0046,Running Shoes,Sports,92.18
+P0047,Water Bottle,Sports,17.22
+P0048,Resistance Band,Sports,18.64
+P0049,Coffee Beans,Food & Drinks,13.07
+P0050,Tea Set,Food & Drinks,20.71
+P0051,Chocolate Box,Food & Drinks,15.16
+P0052,Olive Oil,Food & Drinks,8.59
+P0053,Honey Jar,Food & Drinks,11.07
+P0054,Protein Bar Pack,Food & Drinks,23.85
+P0055,Dried Fruits,Food & Drinks,14.89
+P0056,Spice Set,Food & Drinks,17.31
